@@ -1,2 +1,4 @@
-# flutter
-Flutter App 
+## To run the Hello World demo:
+```
+flutter run
+```
